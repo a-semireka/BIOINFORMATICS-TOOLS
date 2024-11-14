@@ -1,2 +1,2 @@
 # BIOINFORMATICS-TOOLS
-This repository tracks my progress learning bioinformatics tools like R, Python, and BLAST for data analysis, genomics, and visualization. It includes code, tutorials, and personal reflections to document my journey and share knowledge with others. Contributions and feedback are welcome
+This repository tracks my progress in learning and applying bioinformatics tools. It includes code, scripts, tutorials, and personal notes on using bioinformatics tools such as R, Python, BLAST, and others for various biological data analysis tasks. The goal is to document my journey in mastering these tools, exploring areas like genomics, sequence alignment, and data visualization.
